@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
   <artifactId>rohit</artifactId>
-  <packaging>war</packaging>
+  <packaging>bar</packaging>
   <version>1.0-yadav</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
