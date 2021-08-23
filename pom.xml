@@ -5,7 +5,7 @@
   <artifactId>rohit</artifactId>
   <packaging>jar</packaging>
   <version>1.0-yadav</version>
-  <name>my-app</name>
+  <name>ROHIT</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
